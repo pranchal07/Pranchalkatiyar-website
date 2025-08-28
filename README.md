@@ -114,7 +114,4 @@ This portfolio follows modern web design principles:
 ## 📞 Support & Contact
 
 For any questions or customization needs, contact:
-- **Email**: pranchal2213081@akgec.ac.in
-- **LinkedIn**: [linkedin.com/in/pranchal-katiyar](https://linkedin.com/in/pranchal-katiyar)
-- **GitHub**: [github.com/PranchalKatiyar](https://github.com/PranchalKatiyar)
-
+- **Email**: pranchalkatiyar1907@gmail.com
